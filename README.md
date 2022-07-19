@@ -1,7 +1,6 @@
 [![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)]
 <h1 align="center">Hi 👋, I'm Muhammad Junaid</h1>
 <h3 align="center">A passionate full stack developer from Pakistan and an enthusiastic software engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://bit.ly/3yL7RYG"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjunaidjutt&label=Profile%20views&color=0e75b6&style=flat" alt="iamjunaidjutt" /> </p>
 
@@ -20,6 +19,8 @@
 - 📫 How to reach me **engr.muhammadjunaid@hotmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
+
+<img align="center" alt="Coding" width="100%" src="https://bit.ly/3yL7RYG"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
