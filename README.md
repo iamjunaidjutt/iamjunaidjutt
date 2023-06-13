@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/iamjunaidjutt_" target="blank"><img src="https://img.shields.io/twitter/follow/iamjunaidjutt_?logo=twitter&style=for-the-badge" alt="iamjunaidjutt_" /></a> </p>
 
-- 🔭 I’m currently working on **full stack development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **an open source project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamjunaidjutt](https://github.com/iamjunaidjutt)
 
-- 💬 Ask me about **C++, MERN**
+- 💬 Ask me about **C++, JAVA, SQL, MERN Stack**
 
-- 📫 How to reach me **engr.muhammadjunaid@hotmail.com**
+- 📫 How to reach me **info.iamjunaidjutt@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
