@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Juaid</h1>
-<h3 align="center">A passionate full stack engineer and AI/ML enthusiastic based in Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Junaid</h1>
+<h3 align="center">A passionate full-stack software engineer and AI/ML enthusiast based in Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjunaidjutt&label=Profile%20views&color=0e75b6&style=flat" alt="iamjunaidjutt" /> </p>
 
