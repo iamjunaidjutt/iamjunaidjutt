@@ -1,129 +1,115 @@
-<h1 align="center">Hi 👋, I'm Muhammad Junaid</h1>
-<h3 align="center">AI/ML & Full-Stack Engineer building AI-enabled backend systems</h3>
+<h1 align="center">Hi, I'm Muhammad Junaid 😊</h1>
+<h3 align="center">AI/ML & Full-Stack Engineer — AI-Enabled Backend Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamjunaidjutt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Associate+Software+Engineer+(AI%2FML)+%40+Devsinc;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+AWS+%7C+Azure+%7C+Python+%7C+JS+%7C+ASP.NET+Core;Building+AI-driven+legal+tech+for+LawPractice+AI;Learning%3A+AI+Engineer+Production+Track+(Ed+Donner)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://iamjunaidjutt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-iamjunaidjutt.vercel.app-0e75b6?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/iamjunaidjutt"><img src="https://img.shields.io/badge/LinkedIn-iamjunaidjutt-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:info.iamjunaidjutt@gmail.com"><img src="https://img.shields.io/badge/Email-info.iamjunaidjutt%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://iamjunaidjutt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iamjunaidjutt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:info.iamjunaidjutt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/junaid_4648"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### ✨ About Me
 
-I'm an **Associate Software Engineer (AI/ML) at [Devsinc](https://devsinc.com)**, based in Lahore, Pakistan. I build AI-driven legal technology for **LawPractice AI** using ASP.NET Core, FastAPI, LLMs, RAG and agentic workflows on Microsoft Azure, working directly with clients on document extraction, processing and generation.
-
-I hold a **BS in Software Engineering from FAST-NUCES** (2021–2025) and care about clear requirements, useful abstractions, and software that holds up after the demo.
-
-- 🔭 Currently working on **agentic AI, LLM and RAG systems** in production
-- 🌱 Currently learning: **AI Engineer Production Track** on Udemy by **Ed Donner**, on taking AI and LLM applications to production
-- 👯 Looking to collaborate on **AI/ML projects**
-- 🤝 Looking for help with **scaling and deploying Generative AI systems**
-- 💬 Ask me about **LLMs, RAG, Agentic AI, Azure, Next.js, Python, ASP.NET Core, ML/NLP**
-- 📄 More about my work: [iamjunaidjutt.vercel.app](https://iamjunaidjutt.vercel.app)
-- ⚡ Fun fact: **It's all about 0's and 1's**
-
-> 💼 **Open to full-time roles** (Lahore & Remote)
+- 💼 **Associate Software Engineer (AI/ML) at Devsinc**, Lahore. I build AI-driven legal technology for **LawPractice AI** with ASP.NET Core, FastAPI, LLMs, RAG and agentic workflows on Microsoft Azure
+- 📄 Work directly with clients on **document extraction, processing and generation** using Azure Document Intelligence, Azure Foundry, Cosmos DB, OpenCV and RabbitMQ workers
+- 🎓 **BS Software Engineering**, FAST-NUCES (2021–2025)
+- 🌱 Currently learning: **AI Engineer Production Track** on Udemy by **Ed Donner**, on taking LLM and agent applications to production
+- 💻 Currently working on: **agentic AI and RAG systems**
+- 🤝 Open to collaborating on **AI/ML projects**
+- 🌐 **Open to full-time roles**: Lahore or remote
+- 💬 Ask me about: **LLMs, RAG, Agentic AI, AWS, Azure, Next.js, Python, JavaScript, ASP.NET Core, NLP**
+- 💡 Fun fact: **It's all about 0's and 1's**
 
 ---
 
-## 🧠 Tech Stack
+### 🧰 Tech Stack
 
-**AI & Data:** LLMs · RAG · Agentic AI · OpenAI Agents SDK · CrewAI · LangGraph · AutoGen · MCP · LangChain · NLP · TensorFlow · Scikit-learn · Pandas · OpenCV
-
-**Backend & APIs:** ASP.NET Core · FastAPI · Node.js · Express · Flask · Django · REST APIs · RabbitMQ
-
-**Frontend:** Next.js · React · TypeScript · JavaScript · Tailwind CSS · Redux Toolkit · GSAP
-
-**Cloud & DevOps:** Microsoft Azure · AWS · GCP · Docker · Kubernetes · Terraform · GitHub Actions · Jenkins · GitLab CI/CD
-
-**Databases:** PostgreSQL · MySQL · MongoDB · Azure SQL · Cosmos DB · Firebase · Supabase · Redis
-
-**Languages:** Python · C# · Java · C++ · TypeScript · SQL
+**AI / LLM**
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/LLMs-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Promptopia**](https://github.com/iamjunaidjutt/promptopia) ([live](https://promptopia-chi-ten.vercel.app/)) | AI prompt discovery and sharing platform with Google auth, searchable tags and user profiles | Next.js, React, MongoDB, Tailwind CSS |
-| **Gold Investment Estimations Assistant** | Conversational assistant combining live metal rates, Gemini and Whisper speech-to-text | Python, Gemini, Whisper, Gradio |
-| **ResQ CRM** | CRM with real-time rider tracking, dashboards, chat and server-rendered views (80% load-time reduction with SSR) | Next.js, TypeScript, Firebase |
-| **Mawaddah** | Matchmaking platform with role-based permissions, profile matching and subscriptions | Next.js, Node.js, Supabase |
-| **Fake News Detector** | BiLSTM NLP classifier with a Flask interface (85–90% validation accuracy) | Python, TensorFlow, Flask |
-| **Emotion Recognition** | CNN detecting seven facial expressions with OpenCV (~85% accuracy) | Python, TensorFlow, Keras, OpenCV |
-
-All my public projects are at [github.com/iamjunaidjutt](https://github.com/iamjunaidjutt?tab=repositories).
-
----
-
-## 🎓 Training & Certifications
-
-- 🔄 **AI Engineer Production Track** by Ed Donner (Udemy), *in progress*
-- **AI Engineer Core Track**: LLM engineering, RAG, QLoRA, fine-tuning, HuggingFace (Udemy)
-- **AI Engineer Agentic Track**: OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP (Udemy)
-- **Decoding DevOps**: AWS, GCP, Terraform, Docker, Kubernetes, CI/CD (Udemy)
-- **Supervised Machine Learning** (DeepLearning.AI, Coursera)
-- **React: The Complete Guide** (Udemy)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamjunaidjutt&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamjunaidjutt&layout=compact&locale=en&theme=tokyonight" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamjunaidjutt&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamjunaidjutt&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" /></a>
-</p>
-
----
-
-## 🤝 Connect With Me
+**Backend & Web**
 
 <p align="left">
-  <a href="https://linkedin.com/in/iamjunaidjutt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/junaid_4648" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://instagram.com/iamjunaidjutt_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-<p align="center"><i>Building AI systems that solve real problems, and shipping them to production.</i></p>
+**Cloud, Data & Infra**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+**Languages**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+</p>
+
+---
+
+### 📌 Featured Work
+
+- ⭐ **LawPractice AI** *(Devsinc, proprietary)*: AI-driven legal tech with LLMs, RAG and agentic workflows for document extraction, processing and generation · `ASP.NET Core · Azure · RabbitMQ`
+- ⭐ **[Promptopia](https://github.com/iamjunaidjutt/promptopia)** ([live](https://promptopia-chi-ten.vercel.app/)): AI prompt discovery and sharing platform with Google auth, searchable tags and profiles · `Next.js · MongoDB · Tailwind CSS`
+- ⭐ **Gold Investment Estimations Assistant**: conversational assistant combining live metal rates, Gemini and Whisper speech-to-text · `Python · Gemini · Whisper · Gradio`
+- ⭐ **ResQ CRM**: CRM with real-time rider tracking, dashboards and chat; SSR cut load time by 80% · `Next.js · TypeScript · Firebase`
+- ⭐ **Mawaddah**: matchmaking platform with role-based permissions, profile matching and subscriptions · `Next.js · Node.js · Supabase`
+- ⭐ **Fake News Detector**: BiLSTM NLP classifier with a Flask interface, 85–90% validation accuracy · `Python · TensorFlow · Flask`
+- ⭐ **Emotion Recognition**: CNN detecting seven facial expressions, ~85% accuracy · `Python · TensorFlow · Keras · OpenCV`
+
+More at [github.com/iamjunaidjutt](https://github.com/iamjunaidjutt?tab=repositories).
+
+---
+
+### 🎓 Training
+
+⏳ **AI Engineer Production Track** (Ed Donner, Udemy), in progress · **AI Engineer Core & Agentic Tracks** (Udemy) · **Decoding DevOps** (Udemy) · **Supervised Machine Learning** (DeepLearning.AI) · **React: The Complete Guide** (Udemy)
+
+---
+
+<p align="center"><i>Building AI systems that solve real problems, and shipping them to production. Let's connect!</i></p>
