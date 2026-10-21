@@ -136,7 +136,7 @@ I build backend systems and web applications, with a focus on practical AI.
 
 ---
 
-### 🎓 Verified Coursework & Training
+### 🎓 Coursework & Training
 
 - 🤖 **AI Engineer · Agentic Track** — Ed Donner / Ligency · [Certificate](https://www.udemy.com/certificate/UC-834f64a1-cba5-401e-b922-f5e48c950421/)
   *Built 8 AI agents using OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, and MCP, culminating in an autonomous 4-agent simulated trading floor.*
