@@ -38,7 +38,7 @@ I build backend systems and web applications, with a focus on practical AI.
 
 ---
 
-### 📌 Selected work
+### 📌 Selected Work
 
 | System | Origin | What it does | Tech & Evidence |
 | :--- | :--- | :--- | :--- |
@@ -156,7 +156,7 @@ I build backend systems and web applications, with a focus on practical AI.
 
 ---
 
-### 💬 Get in touch
+### 💬 Get in Touch
 
 I'm always open to discussing backend architectures, practical AI systems, and new full-time software engineering opportunities.
 
