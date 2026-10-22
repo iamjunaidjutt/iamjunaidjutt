@@ -57,7 +57,7 @@ I build backend systems and web applications, with a focus on practical AI.
 
 ### 🧰 Tech Stack
 
-**Production Used**     :: ASP.NET Core, C#, Azure, LLMs, RAG, MCP, RabbitMQ, Next.js, React, TypeScript, Python, FastAPI, Claude API <br/>
+**Production Used**     :: ASP.NET Core, C#, Azure, LLMs, RAG, MCP, RabbitMQ, Next.js, React, TypeScript, Python, FastAPI, Claude API, Streamlit <br/>
 **Studied & Tested** :: Node.js, Express, AWS, Socket.IO, Prisma ORM, MongoDB, MySQL, Supabase, Firebase, Flask, TensorFlow, Redis, Django, Kubernetes, Terraform, LangGraph, CrewAI, AutoGen, LiveKit
 
 <br/>
