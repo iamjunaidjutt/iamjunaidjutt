@@ -7,6 +7,9 @@
     <a href="https://iamjunaidjutt.vercel.app">
       <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" alt="Portfolio" />
     </a>
+    <a href="https://iamjunaidjutt.vercel.app/resume">
+      <img src="https://img.shields.io/badge/Resume_-2563EB?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+    </a>
     <a href="https://www.linkedin.com/in/iamjunaidjutt">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
