@@ -7,6 +7,9 @@
     <a href="https://iamjunaidjutt.vercel.app">
       <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" alt="Portfolio" />
     </a>
+    <a href="https://iamjunaidjutt.vercel.app/chat">
+      <img src="https://img.shields.io/badge/Chat_with_Juno-0a0e17?style=for-the-badge&logo=probot&logoColor=00E9A3" alt="Chat with Juno" />
+    </a>
     <a href="https://iamjunaidjutt.vercel.app/resume">
       <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
     </a>
@@ -14,7 +17,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:info.iamjunaidjutt@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://wa.me/923074254648">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -47,7 +50,7 @@ I build backend systems and web applications, with a focus on practical AI.
 | :--- | :--- | :--- | :--- |
 | **[LawPractice.ai](https://www.lawpractice.ai)** | Production · Devsinc | AI platform for 300+ US plaintiff law firms. Ingests case records and medical files up to 1,000+ pages to draft demand letters and legal summaries. | `ASP.NET Core`, `Azure OpenAI`, `RAG`, `MCP`, `Azure AI Search`, `RabbitMQ`<br/>- **Result**: Cut prep time by ~70%, 7x faster turnaround, ~90% fewer errors.<br/>- [📖 Case Study](https://iamjunaidjutt.vercel.app/lawpractice-ai) · [Live Platform](https://www.lawpractice.ai) |
 | **YCG** | Project · Devsinc | Automated compliance auditor that reviews Quality Manuals clause-by-clause against ISO standards (like ISO 13485:2016) to verify requirements and flag gaps. | `Python`, `FastAPI`, `Claude API`, `Streamlit`, `python-docx`<br/>- Multi-stage audit pipeline with clause classification, suggestions, and live UI.<br/>- [📖 Case Study](https://iamjunaidjutt.vercel.app/ycg-platform) |
-| **[Juno](https://github.com/iamjunaidjutt/iamjunaidjutt-portfolio)** | AI Agent | An autonomous AI assistant built into my portfolio. Streams answers in real time, uses live tools to search GitHub repos, and features an automated circuit-breaker model fallback. | `Next.js 14`, `TypeScript`, `Gemini 3.1 & 3.5`, `SSE`, `Upstash Redis`<br/>- [📖 Case Study](https://iamjunaidjutt.vercel.app/juno-ai) · [Live Assistant](https://iamjunaidjutt.vercel.app/#chat) · [GitHub Repo](https://github.com/iamjunaidjutt/iamjunaidjutt-portfolio) |
+| **[Juno](https://github.com/iamjunaidjutt/iamjunaidjutt-portfolio)** | AI Agent · RAG | Autonomous portfolio assistant powered by in-memory Agentic RAG (< 0.2ms cosine retrieval across 13 case studies & 53 repos), live GitHub activity streaming, multi-turn tool calling, and an automated multi-model cascade (Gemini 3.1 & 3.5 Flash) with 12s fast failover. | `Next.js 14`, `TypeScript`, `Agentic RAG`, `Gemini 3.1 & 3.5`, `In-Memory Vectors`, `SSE`, `Upstash Redis`<br/>- [📖 Case Study](https://iamjunaidjutt.vercel.app/juno-ai) · [Live Assistant](https://iamjunaidjutt.vercel.app/chat) · [GitHub Repo](https://github.com/iamjunaidjutt/iamjunaidjutt-portfolio) |
 | **[Gold Investment Assistant](https://github.com/iamjunaidjutt/gold-investment-assistant)** | AI & Speech | Voice-enabled precious metals calculator and market estimations advisor powered by Whisper audio transcription and LLM inference. | `Python`, `Gradio`, `Google Gemini`, `Groq Whisper`, `OpenAI SDK`<br/>- [📖 Case Study](https://iamjunaidjutt.vercel.app/gold-investment-system) · [Live Space](https://huggingface.co/spaces/junaid48/gold-investment-assistant) · [GitHub Repo](https://github.com/iamjunaidjutt/gold-investment-assistant) |
 | **Real-Time Chat App** | Full-Stack Project | Real-time messaging platform with public and private rooms, live typing indicators, and user presence tracking. | `Next.js 15`, `React 19`, `Node.js`, `Express`, `Socket.IO`, `MongoDB`, `Swagger`<br/>- [📖 Case Study](https://iamjunaidjutt.vercel.app/realtime-chat-app) · [Frontend Repo](https://github.com/iamjunaidjutt/chatapp-frontend) · [Backend Repo](https://github.com/iamjunaidjutt/chatapp-backend) |
 | **Buxom Cosmetics** | Full-Stack Store | Decoupled e-commerce platform with persistent cart state, Stripe checkout for guest and signed-in users, and an admin dashboard. | `React 18`, `TypeScript`, `Redux Toolkit`, `Node.js`, `Prisma ORM`, `MySQL`<br/>- [📖 Case Study](https://iamjunaidjutt.vercel.app/buxom-cosmetics) · [Frontend Repo](https://github.com/iamjunaidjutt/buxom-frontend) · [Backend Repo](https://github.com/iamjunaidjutt/buxom-backend) |
@@ -73,6 +76,7 @@ I build backend systems and web applications, with a focus on practical AI.
       <img src="https://img.shields.io/badge/LLMs-6E56CF?style=flat-square" />
       <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square" />
       <img src="https://img.shields.io/badge/Agentic_AI-6E56CF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Vector_Search-6E56CF?style=flat-square" />
       <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square" />
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
       <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" />
@@ -166,6 +170,7 @@ I build backend systems and web applications, with a focus on practical AI.
 I'm always open to discussing backend architectures, practical AI systems, and new full-time software engineering opportunities.
 
 - 🌐 **Portfolio**: [iamjunaidjutt.vercel.app](https://iamjunaidjutt.vercel.app)
+- 🤖 **Chat with Juno**: [iamjunaidjutt.vercel.app/chat](https://iamjunaidjutt.vercel.app/chat)
 - 💼 **LinkedIn**: [linkedin.com/in/iamjunaidjutt](https://www.linkedin.com/in/iamjunaidjutt)
 - 📧 **Direct Email**: [info.iamjunaidjutt@gmail.com](mailto:info.iamjunaidjutt@gmail.com)
 - 📱 **WhatsApp**: [+92 307 4254648](https://wa.me/923074254648)
