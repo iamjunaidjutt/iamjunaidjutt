@@ -67,7 +67,7 @@ I build backend systems and web applications, with a focus on practical AI.
 
 ### 🧰 Tech Stack
 
-**Production Used**     :: ASP.NET Core, C#, Azure, LLMs, RAG, MCP, RabbitMQ, Next.js, React, TypeScript, Python, FastAPI, Claude API, Streamlit <br/>
+**Production Used**     :: ASP.NET Core, C#, Azure, LLMs, RAG, MCP, Prompt Engineering, RabbitMQ, Next.js, React, TypeScript, Python, FastAPI, Claude API, Streamlit <br/>
 **Hands-on & Projects** :: Node.js, Express, AWS, Socket.IO, Prisma ORM, MongoDB, MySQL, Supabase, Firebase, Flask, TensorFlow, Redis, Django, Kubernetes, Terraform, LangGraph, CrewAI, AutoGen, LiveKit
 
 <br/>
@@ -81,6 +81,7 @@ I build backend systems and web applications, with a focus on practical AI.
       <img src="https://img.shields.io/badge/Agentic_AI-6E56CF?style=flat-square" />
       <img src="https://img.shields.io/badge/Vector_Search-6E56CF?style=flat-square" />
       <img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=flat-square" />
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
       <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" />
       <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square" />
